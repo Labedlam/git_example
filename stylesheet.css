@@ -1,0 +1,15 @@
+/* Author: Zeeshan Dawood; Date:9-16-15*/
+body{
+
+	background-color: rgba(51,212,161,1);
+}
+
+ 
+h1{ 
+	color: white;
+	font-family: 'Arvo bold 700', serif;
+	font-size: 4em;
+	text-transform:uppercase;
+	text-align: center;
+
+}
